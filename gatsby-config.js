@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Blockchain Tools`,
+    title: `Coding Day`,
     author: `Rebase`,
     description: `A set of tools for blockchain users.`,
     siteUrl: `https://tools.rebase.network`,
